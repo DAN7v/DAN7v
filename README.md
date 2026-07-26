@@ -1,7 +1,6 @@
 # Hi, I'm Dan 👋
 
-IT student with a strong passion for Data and Machine Learning. I enjoy building personal projects using Java, SQL, Python 
-
+IT student with a strong passion for Data and Machine Learning.
 ## Education
 **Information Technology** at King Abdulaziz University
 
